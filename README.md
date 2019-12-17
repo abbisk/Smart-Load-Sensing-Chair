@@ -8,3 +8,6 @@ Smart Load Sensing Chair witth automated light and fan control
 5. 10MΩ Resistor
 6. 12V LED
 7. 2.2 Operational
+
+# Arduino Installation
+https://www.arduino.cc/en/Main/Software
