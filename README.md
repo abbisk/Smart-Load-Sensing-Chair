@@ -1,5 +1,5 @@
-# Smart-Load-Sensing-Chair
-Smart Load Sensing Chair witth automated light and fan control
+# Smart-Load-Sensing-Chair/Seat
+Smart Load Sensing Seat witth automated light and fan control is a Auduino based project written in c++.
 ## The proposed system mainly consists of the following elements:
 1. Microcontroller (Arduino Uno)
 2. BH1750 Light Sensing Module
