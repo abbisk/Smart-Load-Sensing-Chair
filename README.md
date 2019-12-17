@@ -9,5 +9,5 @@ Smart Load Sensing Seat witth automated light and fan control is a Auduino based
 6. 12V LED
 7. 2.2 Operational
 
-# Arduino Installation
+# Arduino IDE Installation
 https://www.arduino.cc/en/Main/Software
